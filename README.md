@@ -1,2 +1,2 @@
 # topupswift
-A redirect link to topupswift.com.ng because apparently X is having issues with my .com.ng domain
+A redirect link to https://topupswift.com.ng because apparently X is having issues with my .com.ng domain
